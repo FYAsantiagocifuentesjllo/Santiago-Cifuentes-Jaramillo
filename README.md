@@ -1,4 +1,3 @@
-# Santiago-Cifuentes-Jaramillo
 # Santiago Cifuentes Jaramillo
 
 **Desarrollador Backend | Node.js · Express · PostgreSQL · Python**
